@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "mechmech",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 5,
+      "Comment": "hatoum",
+      "date": "2024-05-28T23:00:00.000Z",
+      "id": "3ff7"
+    },
+    {
+      "id": "6d10",
+      "productName": "arduino",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 20,
+      "Comment": "this is arduino Uno",
+      "date": "2024-02-19T23:00:00.000Z"
+    },
+    {
+      "id": "1074",
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 15,
+      "Comment": "ghazi",
+      "date": "2024-03-26T00:00:00.000Z"
+    },
+    {
+      "id": "7077",
+      "productName": "orange",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 5,
+      "Comment": "kahot",
+      "date": "2024-02-11T23:00:00.000Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
