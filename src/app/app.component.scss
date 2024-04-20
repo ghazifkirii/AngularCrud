@@ -10,4 +10,12 @@ table {
   width: 100%;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+a:active {
+  color: yellow; /* Couleur lorsqu'il est en cours de clic */
+}
+
 

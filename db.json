@@ -1,40 +1,40 @@
 {
   "productList": [
     {
-      "productName": "mechmech",
+      "id": "24bc",
+      "productName": "frawla",
       "category": "Fruits",
-      "freshness": "Refurbished",
-      "price": 5,
-      "Comment": "hatoum",
-      "date": "2024-05-28T23:00:00.000Z",
-      "id": "3ff7"
+      "freshness": "Brand New",
+      "price": 20,
+      "Comment": "ghazi",
+      "date": "2024-02-04T23:00:00.000Z"
     },
     {
-      "id": "6d10",
-      "productName": "arduino",
-      "category": "Electronic",
-      "freshness": "Second Hand",
-      "price": 20,
-      "Comment": "this is arduino Uno",
+      "id": "932f",
+      "productName": "ghazi",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 100,
+      "Comment": "farjallah",
       "date": "2024-02-19T23:00:00.000Z"
     },
     {
-      "id": "1074",
-      "productName": "mango",
-      "category": "Fruits",
-      "freshness": "Second Hand",
-      "price": 15,
-      "Comment": "ghazi",
-      "date": "2024-03-26T00:00:00.000Z"
-    },
-    {
-      "id": "7077",
-      "productName": "orange",
+      "id": "cc9a",
+      "productName": "banane",
       "category": "Fruits",
       "freshness": "Brand New",
+      "price": 100,
+      "Comment": "hhh",
+      "date": "2024-02-27T23:00:00.000Z"
+    },
+    {
+      "id": "c980",
+      "productName": "banana",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
       "price": 5,
-      "Comment": "kahot",
-      "date": "2024-02-11T23:00:00.000Z"
+      "Comment": "nothing ",
+      "date": "2024-04-10T00:00:00.000Z"
     }
   ],
   "comments": [
